@@ -1,8 +1,8 @@
 <h1 align="center">==== Welcome ====</h1>
 
 <div style="display: inline_block" align="center"> <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AotoKobayashi&show_icons=true&theme=codeSTACKr&hide=prs,issues">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AotoKobayashi&layout=compact&theme=codeSTACKr">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AotoKobayashi&show_icons=true&theme=codeSTACKr&hide=prs,issues">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AotoKobayashi&layout=compact&theme=codeSTACKr">
 </div>
 
 <br>
